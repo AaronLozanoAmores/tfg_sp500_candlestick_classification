@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+yfinance
+mplfinance
+matplotlib
+Pillow
+jupyter
+notebook
+seaborn
+tqdm
+joblib
